@@ -1,5 +1,5 @@
 
-/*****************Base de Crito Moedas ****************/
+/***************** Base de Crito Moedas ****************/
 %base    MOEDA    MES    DIA ANO   OPEN     HIGH     LOW      CLOSE    VOLUME      MARKET CAP
 currency(bitcoin, junho, 06, 2019, 7819.63, 7937.34, 7571.47, 7822.02, 1947461107, 138800725479).
 currency(bitcoin, junho, 05, 2019, 7704.34, 7901.85, 7668.67, 7824.23, 2176092346, 138824651666).
@@ -735,7 +735,7 @@ currency(iota, junho, 07, 2018, 1.70, 1.74, 1.68, 1.70, 67262200, 4712332256).
 currency(iota, junho, 06, 2018, 1.75, 1.76, 1.65, 1.70, 76212096, 4716529347).
 
 
-/****************  Codigo  ****************/
+/****************  Código  ****************/
 
 imprimirResultado([]).
 imprimirResultado([C | Cauda]) :-
