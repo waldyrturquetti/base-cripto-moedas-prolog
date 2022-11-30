@@ -735,7 +735,7 @@ currency(iota, junho, 07, 2018, 1.70, 1.74, 1.68, 1.70, 67262200, 4712332256).
 currency(iota, junho, 06, 2018, 1.75, 1.76, 1.65, 1.70, 76212096, 4716529347).
 
 
-/****************Seu Codigo AQUI ****************/
+/****************  Codigo  ****************/
 
 imprimirResultado([]).
 imprimirResultado([C | Cauda]) :-
